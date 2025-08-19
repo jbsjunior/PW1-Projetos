@@ -1,0 +1,1 @@
+Pasta para criar arquivos javascripts
