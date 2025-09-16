@@ -1,4 +1,3 @@
-<style>
 a:link {
   color: green;
   background-color: transparent;
@@ -34,4 +33,26 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
-</style>
+
+div.mycontainer {
+  width:100%;
+  overflow:auto;
+}
+div.mycontainer div {
+  width:33%;  
+  float:left;
+}
+
+.city {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+#teste{
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
